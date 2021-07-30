@@ -1,2 +1,1 @@
-# jasminebot.xyz
-https://www.jasminebot.xyz
+https://www.kannacoco.me

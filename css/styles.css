@@ -582,10 +582,13 @@ border: 1px solid rgba(255, 255, 255, 0.2);
 margin: 0 8px;
 }
 #about {
-  padding: 100px 0;
-  background: #07080A;
-  background: url('../images/img2.jpg');    
+  background: url('../images/img2.jpg');  
   background-size: cover; 
+}
+#about .background{
+  padding: 100px 0;
+  background: rgba(26, 28, 40, 0.7);
+  background-size: cover;
 }
 #about .column-title{
 color:#fff;
